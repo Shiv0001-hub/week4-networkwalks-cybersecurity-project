@@ -1,0 +1,31 @@
+ID,Full Name,Job Title,Department,Email,Phone,National ID,Monthly Salary (ZAR),Annual Salary (ZAR),Date Joined
+3,Dr. Johan van der Merwe,Medical Director,Management,j.merwe@medirozahospital.com,+27 82 103 2021,85041033033083,"160,000","1,920,000",2007-01-22
+2,Sarah Botha,Chief Financial Officer,Finance,s.botha@medirozahospital.com,+27 82 102 2014,85031023022082,"152,000","1,824,000",2011-07-01
+1,Dr. Rajesh Naidoo,Chief Pathologist,Diagnostics Lab,r.naidoo@medirozahospital.com,+27 82 101 2007,85021013011081,"138,000","1,656,000",2009-03-16
+24,Dr. Vikram Chetty,Anaesthetist,Theatre,v.chetty@medirozahospital.com,+27 82 124 2168,85011243264086,"135,000","1,620,000",2011-06-13
+4,Dr. Anita Naicker,Consultant Cardiologist,Cardiology,a.naicker@medirozahospital.com,+27 82 104 2028,85051043044084,"132,000","1,584,000",2012-09-10
+21,Dr. Suresh Moodley,Consultant Radiologist,Radiology,s.moodley@medirozahospital.com,+27 82 121 2147,85101213231083,"130,000","1,560,000",2012-02-28
+5,Dr. Ahmed Kara,Consultant Physician,Internal Medicine,a.kara@medirozahospital.com,+27 82 105 2035,85061053055085,"128,000","1,536,000",2013-02-18
+22,Dr. Fatima Patel,Pediatrician,Pediatrics,f.patel@medirozahospital.com,+27 82 122 2154,85111223242084,"118,000","1,416,000",2013-10-17
+7,Michael Roberts,HR Director,Human Resources,m.roberts@medirozahospital.com,+27 82 107 2049,85081073077087,"96,000","1,152,000",2010-11-15
+6,Dr. Yusuf Cassim,Senior Registrar,Emergency & Trauma,y.cassim@medirozahospital.com,+27 82 106 2042,85071063066086,"74,000","888,000",2018-05-04
+15,Kagiso Sithole,Pharmacist,Pharmacy,k.sithole@medirozahospital.com,+27 82 115 2105,85041153165086,"61,000","732,000",2014-09-08
+9,Jameel Malik,IT Systems Administrator,IT,j.malik@medirozahospital.com,+27 82 109 2063,85101093099080,"58,000","696,000",2015-04-12
+25,David Smith,Facilities Manager,Operations,d.smith@medirozahospital.com,+27 82 125 2175,85021253275087,"52,000","624,000",2014-01-27
+23,Nisha Singh,Physiotherapist,Rehabilitation,n.singh@medirozahospital.com,+27 82 123 2161,85121233253085,"48,000","576,000",2016-11-09
+10,Thabo Molefe,Network Engineer,IT,t.molefe@medirozahospital.com,+27 82 110 2070,85111103110081,"46,000","552,000",2017-10-02
+17,Themba Nkosi,Radiographer,Radiology,t.nkosi@medirozahospital.com,+27 82 117 2119,85061173187088,"44,000","528,000",2016-07-30
+18,Palesa Radebe,Radiographer,Radiology,p.radebe@medirozahospital.com,+27 82 118 2126,85071183198080,"43,000","516,000",2017-04-11
+14,Zanele Mahlangu,Nursing Sister,Theatre,z.mahlangu@medirozahospital.com,+27 82 114 2098,85031143154085,"42,000","504,000",2013-03-25
+19,Deepak Pillay,Lab Technologist,Diagnostics Lab,d.pillay@medirozahospital.com,+27 82 119 2133,85081193209081,"41,000","492,000",2015-05-20
+29,Peter van Wyk,Procurement Officer,Supply Chain,p.wyk@medirozahospital.com,+27 82 129 2203,85061293319082,"38,000","456,000",2015-08-24
+13,Bongani Ndlovu,Registered Nurse,Cardiology,b.ndlovu@medirozahospital.com,+27 82 113 2091,85021133143084,"35,000","420,000",2015-12-01
+20,Kavitha Govender,Lab Technician,Diagnostics Lab,k.govender@medirozahospital.com,+27 82 120 2140,85091203220082,"35,000","420,000",2018-08-06
+11,Nomvula Khumalo,Registered Nurse,Emergency & Trauma,n.khumalo@medirozahospital.com,+27 82 111 2077,85121113121082,"34,000","408,000",2016-01-19
+12,Lerato Mokoena,Registered Nurse,Pediatrics,l.mokoena@medirozahospital.com,+27 82 112 2084,85011123132083,"33,000","396,000",2017-06-07
+8,Susan Pretorius,HR Officer,Human Resources,s.pretorius@medirozahospital.com,+27 82 108 2056,85091083088088,"32,000","384,000",2016-08-23
+26,Karen O'Connor,Billing Administrator,Finance,k.oconnor@medirozahospital.com,+27 82 126 2182,85031263286088,"29,000","348,000",2018-03-19
+27,James Wilson,Security Supervisor,Operations,j.wilson@medirozahospital.com,+27 82 127 2189,85041273297080,"27,000","324,000",2019-09-02
+16,Naledi Zulu,Pharmacy Assistant,Pharmacy,n.zulu@medirozahospital.com,+27 82 116 2112,85051163176087,"26,000","312,000",2019-02-14
+30,Andile Mbeki,Ward Clerk,Administration,a.mbeki@medirozahospital.com,+27 82 130 2210,85071303330083,"21,000","252,000",2019-11-05
+28,Linda Fourie,Receptionist,Front Office,l.fourie@medirozahospital.com,+27 82 128 2196,85051283308081,"19,000","228,000",2020-02-10
