@@ -10,7 +10,7 @@
 | **Engagement** | Black-box Penetration Test |
 | **Duration** | 5 Days |
 | **Overall Risk** | 🔴 **CRITICAL** |
-| **Report Date** | 3 October 2026 |
+| **Report Date** | 2 October 2026 |
 
 > ⚠️ **Educational use only.** This assessment was performed against a target explicitly
 > authorised for security testing by NetworkWalks. These techniques must never be applied to
@@ -319,4 +319,4 @@ NetworkWalks training programme. It is published for defensive and learning purp
 Do not attempt these techniques against any system you do not have explicit written
 permission to test.
 
-**Report prepared by Shiv Kumar Das · NetworkWalks Batch B083, Week 4 · 3 October 2026**
+**Report prepared by Shiv Kumar Das · NetworkWalks Batch B083, Week 4 · 2 October 2026**
