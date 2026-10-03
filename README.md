@@ -302,44 +302,6 @@ Downloaded with no authentication whatsoever. The file's own header confirms its
 
 ---
 
-# 📂 Repository Contents
-
-```
-├── README.md                              ← this file
-├── Mediroza_Penetration_Test_Report.md    ← full report (Markdown)
-├── Mediroza_Penetration_Test_Report.docx  ← full report (Word, editable)
-├── LINKEDIN_POST.md                       ← ready-to-post LinkedIn copy
-├── SUBMISSION_GUIDE.md                    ← GitHub + LinkedIn walkthrough
-├── screenshots/                           ← 20 evidence screenshots
-│   ├── 01-recon-robots.png
-│   ├── 02-directory-listing.png
-│   ├── 03-login-page.png
-│   ├── 04-sqli-auth-bypass.png
-│   ├── 05-portal-reports.png
-│   ├── 06-downloaded-pdfs.png
-│   ├── 07-pdf-encryption-info.png
-│   ├── 07b-pdf-encryption-report3.png
-│   ├── 08-pdf2john-hashes.png
-│   ├── 09-john-error-load.png
-│   ├── 09b-john-still-failing.png
-│   ├── 10-pdfcrack-report1-2.png
-│   ├── 10b-pdfcrack-report3.png
-│   ├── 11-qpdf-decrypt.png
-│   ├── 11b-decrypted-patient-data.png
-│   ├── 12-pdf-metadata-report1.png
-│   ├── 12b-pdf-metadata-report2.png
-│   ├── 12c-pdf-metadata-report3-KEY.png
-│   ├── 13-sql-backup-downloaded.png
-│   └── 14b-shareholders-data.png
-└── evidence/
-    ├── mediroza_db_backup_2019.sql        ← the exposed database backup
-    ├── staff_salaries.csv                 ← 30 employees, parsed
-    ├── shareholders.csv                   ← 10 shareholders, parsed
-    └── patient_reports/                   ← all 6 PDFs (encrypted + decrypted)
-```
-
----
-
 # 📄 Full Report
 
 The complete professional report — all five required sections (Executive Summary, Scope &
@@ -347,7 +309,6 @@ Methodology, Findings & Proof of Exploitation, Risk Rating, Recommendations & Re
 plus five appendices — is available as:
 
 - 📘 [`Mediroza_Penetration_Test_Report.docx`](Mediroza_Penetration_Test_Report.docx) — editable Word document
-- 📝 [`Mediroza_Penetration_Test_Report.md`](Mediroza_Penetration_Test_Report.md) — Markdown source
 
 ---
 
